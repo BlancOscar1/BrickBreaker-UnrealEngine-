@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BrickBreaker",
+			"Path": "C:\\Users\\blanc\\Desktop\\Programacion Avanzada (SIS457)\\Brick Breaker (Unreal Engine)\\BrickBreaker\\Source\\BrickBreaker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BrickBreakerEditor",
+			"Path": "C:\\Users\\blanc\\Desktop\\Programacion Avanzada (SIS457)\\Brick Breaker (Unreal Engine)\\BrickBreaker\\Source\\BrickBreakerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
